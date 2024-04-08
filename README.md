@@ -1,5 +1,6 @@
-### Hello EveryBody 
-I work for honor and valor
+<h1 align="center">Hello, Khights!⚔️ I'm George</h1>
+<h3 align="center">I work for honor and valor from Russia</h3>
+
 <!--
 **CoolVery/CoolVery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
