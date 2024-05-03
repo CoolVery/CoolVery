@@ -5,7 +5,7 @@
 
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk)](https://vk.com/georgikuklev)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://vk.com/georgikuklev)
-
+![](https://komarev.com/ghpvc/?username=CoolVeryr&color=abbd9a&flat=true&style=for-the-badge)  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
