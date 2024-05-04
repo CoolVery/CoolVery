@@ -1,4 +1,3 @@
-![alt text](header.png)
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3IyMmcya3RnZmZ6aGx6eHJoZDdudjRqenVqNDFiemV3a2VkOGJqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ksbBxfX6odzBJp9bkr/giphy.gif"></div>
 
