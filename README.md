@@ -61,6 +61,4 @@
 
 ![](https://komarev.com/ghpvc/?username=CoolVeryr&color=ff0000&flat=true&style=for-the-badge)  <br><br>
 
-[![CoolVery's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CoolVery&theme=high-contrast&point=ff0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>
